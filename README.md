@@ -1,6 +1,6 @@
 # Server-MultiThread
 <ul>
-  <li>Scrivere un programma basato su comunicazione client/server con sockek</li>
+  <li>Scrivere un programma basato su comunicazione client/server con socket</li>
   <li>Il client invia un carattere al server</li>
   <li>Il server incrementa il carattere (in modo casuale) e lo invia al client,che lo stampa a video </li>
 </ul>
